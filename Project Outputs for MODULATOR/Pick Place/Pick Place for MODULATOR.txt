@@ -1,0 +1,66 @@
+Altium Designer Pick and Place Locations
+C:\altium workspace\MODULATOR\Project Outputs for MODULATOR\Pick Place\Pick Place for MODULATOR.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       31.08.21
+Time:       12:22
+Revision:   f171895d90e97a1def567e7f65ff4273b75ef462
+Variant:    No variations
+Units used: mm
+
+Designator     Comment            Layer    Footprint                           Center-X(mm) Center-Y(mm) Rotation Description                                                                                       
+PWR1           A                  TopLayer HDR_Side_3_pin                      76.4400      -8.6000      0        "Header, 4-Pin"                                                                                   
+CH2            LHWR               TopLayer KF350-3p                            65.2000      -7.0000      0        ""                                                                                                
+CH1            LHWR               TopLayer KF350-3p                            22.6000      -7.1000      180      ""                                                                                                
+C19            EEE-FK1E330UR      TopLayer SM_RADIAL_C                         46.4000      2.8000       270      ""                                                                                                
+C18            EEE-FK1E272SM      TopLayer CAP_EEE-FK1E272SM                   72.6000      26.0000      90       "CAP ALUM 2700UF 20% 25V SMD"                                                                     
+C17            UWT1H221MNL1GS     TopLayer CAPAE1030X1080N_UWT1H221MNL1GS      73.5000      5.0000       0        "220ÂµF 50V Aluminum Electrolytic Capacitors Radial, Can - SMD 5000 Hrs @ 105Â°C"                 
+C16            GRM21BR61C106KE15K TopLayer CAPC2012X135N                       38.3000      9.9000       90       ""                                                                                                
+C15            GRM21BR61C106KE15K TopLayer CAPC2012X135N                       24.2000      6.9000       90       ""                                                                                                
+Output2        SMA-J-P-H-ST-EM1   TopLayer SAMTEC_SMA-J-P-H-ST-EM1             88.0000      22.8250      90       "SMA Connector Jack, Female Socket 50Ohm Board Edge, End Launch Solder"                           
+VR2            3266W-1-503LF      TopLayer TRIM_3266W-1-503LF                  61.4000      2.9700       0        "Res Cermet Trimmer 1K Ohm 10% 1/4W 12(Elec)Turn 1.78mm (6.71 X 4.5 X 8.26mm) Pin Thru-Hole Tube" 
+U2             TDA2030            TopLayer TO170P1580X1040X480-5               56.4000      18.9570      0        "14 W hi-fi audio amplifier"                                                                      
+R19            RC0603FR-0710KL    TopLayer J1-0603                             50.3000      2.6000       90       "10 kOhms 1 0.1 W 1 10 W Chip Resistor 0603 1608 Metric Thick Film"                               
+R18            RC0603FR-0710KL    TopLayer J1-0603                             46.5000      9.8000       90       "10 kOhms 1 0.1 W 1 10 W Chip Resistor 0603 1608 Metric Thick Film"                               
+R17            RC0603FR-0710KL    TopLayer J1-0603                             56.0000      4.9000       0        "10 kOhms 1 0.1 W 1 10 W Chip Resistor 0603 1608 Metric Thick Film"                               
+R16            RC0603FR-0710KL    TopLayer J1-0603                             63.2000      13.6000      90       "10 kOhms 1 0.1 W 1 10 W Chip Resistor 0603 1608 Metric Thick Film"                               
+R15            RC0603FR-0710KL    TopLayer J1-0603                             44.6000      9.8000       270      "10 kOhms 1 0.1 W 1 10 W Chip Resistor 0603 1608 Metric Thick Film"                               
+R14            RC0603FR-0710KL    TopLayer J1-0603                             48.3000      9.8000       270      "10 kOhms 1 0.1 W 1 10 W Chip Resistor 0603 1608 Metric Thick Film"                               
+D3             SK56               TopLayer *SMB_P6SMB62AT3G(Primary)           78.8000      13.1000      180      "Äèîä Øîòòêè 5À 60Â [SMB / DO-214AA]"                                                             
+D2             SK56               TopLayer *SMB_P6SMB62AT3G(Primary)           70.4000      13.3000      180      "Äèîä Øîòòêè 5À 60Â [SMB / DO-214AA]"                                                             
+C14            GX035C104MAT2-500  TopLayer *CAPC1608X90                        65.2000      13.6000      270      "Cap Thin Film 0.1uf 50v 0603"                                                                    
+C13            GRM31CR71H225KA88L TopLayer *CAP3216X125N                       53.0000      3.2000       90       "1206 2.2 uF 50 V Â±10% Tolerance X7R SMT Multilayer Ceramic Capacitor"                           
+C12            GRM31CR71H225KA88L TopLayer *CAP3216X125N                       43.5000      15.5000      0        "1206 2.2 uF 50 V Â±10% Tolerance X7R SMT Multilayer Ceramic Capacitor"                           
+C11            GX035C104MAT2-500  TopLayer *CAPC1608X90                        58.9000      6.4000       0        "Cap Thin Film 0.1uf 50v 0603"                                                                    
+VR1            3266W-1-503LF      TopLayer TRIM_3266W-1-503LF                  16.8700      23.0000      90       "Res Cermet Trimmer 1K Ohm 10% 1/4W 12(Elec)Turn 1.78mm (6.71 X 4.5 X 8.26mm) Pin Thru-Hole Tube" 
+C10            GRM21BR61C106KE15K TopLayer CAPC2012X135N                       24.9000      25.4000      270      ""                                                                                                
+PWR            A                  TopLayer HDR_Side_3_pin                      34.8000      -8.6000      0        "Header, 4-Pin"                                                                                   
+"Signal Input" SMA-J-P-H-ST-EM1   TopLayer SAMTEC_SMA-J-P-H-ST-EM1             24.7000      35.5000      180      "SMA Connector Jack, Female Socket 50Ohm Board Edge, End Launch Solder"                           
+Output         SMA-J-P-H-ST-EM1   TopLayer SAMTEC_SMA-J-P-H-ST-EM1             12.4000      15.0000      270      "SMA Connector Jack, Female Socket 50Ohm Board Edge, End Launch Solder"                           
+"Carier Input" SMA-J-P-H-ST-EM1   TopLayer SAMTEC_SMA-J-P-H-ST-EM1             38.3000      35.2000      180      "SMA Connector Jack, Female Socket 50Ohm Board Edge, End Launch Solder"                           
+U1             MC1496DR2G         TopLayer SOIC127P600X175-14N                 27.6000      17.6000      0        ""                                                                                                
+R13            RC0603FR-0710KL    TopLayer J1-0603                             20.9000      24.4000      180      "10 kOhms 1 0.1 W 1 10 W Chip Resistor 0603 1608 Metric Thick Film"                               
+R12            RC0603FR-0710KL    TopLayer J1-0603                             21.0500      19.5500      180      "10 kOhms 1 0.1 W 1 10 W Chip Resistor 0603 1608 Metric Thick Film"                               
+R11            Res3               TopLayer J1-0603                             29.5000      8.4000       180      Resistor                                                                                          
+R10            Res3               TopLayer J1-0603                             29.5000      11.2000      180      Resistor                                                                                          
+R9             Res3               TopLayer J1-0603                             32.9000      11.3000      0        Resistor                                                                                          
+R8             Res3               TopLayer J1-0603                             18.8000      2.3000       90       Resistor                                                                                          
+R7             Res3               TopLayer J1-0603                             32.9000      8.5000       180      Resistor                                                                                          
+R6             Res3               TopLayer J1-0603                             21.0500      21.8000      0        Resistor                                                                                          
+R5             Res3               TopLayer J1-0603                             35.7000      15.1000      270      Resistor                                                                                          
+R4             RC0603FR-0710KL    TopLayer J1-0603                             21.0500      17.3000      0        "10 kOhms 1 0.1 W 1 10 W Chip Resistor 0603 1608 Metric Thick Film"                               
+R3             Res3               TopLayer J1-0603                             33.4000      15.1000      90       Resistor                                                                                          
+R2             Res3               TopLayer J1-0603                             21.0500      12.8000      180      Resistor                                                                                          
+R1             Res3               TopLayer J1-0603                             33.4000      19.6000      90       Resistor                                                                                          
+D1             0603-LED-BLUE      TopLayer *LEDM1608X80_LTE-C1906R-14(Primary) 20.7000      2.3000       90       "LED IrLED Chip LED 2-Pin SMD T/R"                                                                
+C9             GRM31CR61A476KE15L TopLayer *CAPC3216X125N                      36.0000      10.0000      90       "Multilayer Ceramic Capacitor, GRM Series, 47 - F, - 10%, X5R, 10 V, 1206 [3216 Metric]"          
+C8             GX035C104MAT2-500  TopLayer *CAPC1608X90                        40.1000      9.9000       270      "Cap Thin Film 0.1uf 50v 0603"                                                                    
+C7             GRM31CR61A476KE15L TopLayer *CAPC3216X125N                      26.5000      7.0000       90       "Multilayer Ceramic Capacitor, GRM Series, 47 - F, - 10%, X5R, 10 V, 1206 [3216 Metric]"          
+C6             GX035C104MAT2-500  TopLayer *CAPC1608X90                        28.7000      1.8000       90       "Cap Thin Film 0.1uf 50v 0603"                                                                    
+C5             GRM21BR61C106KE15K TopLayer CAPC2012X135N                       26.5000      1.8000       270      ""                                                                                                
+C4             UWT1H221MNL1GS     TopLayer CAPAE1030X1080N_UWT1H221MNL1GS      36.2000      1.2000       0        "220ÂµF 50V Aluminum Electrolytic Capacitors Radial, Can - SMD 5000 Hrs @ 105Â°C"                 
+C3             GX035C104MAT2-500  TopLayer *CAPC1608X90                        24.2000      1.7000       90       "Cap Thin Film 0.1uf 50v 0603"                                                                    
+C2             GX035C104MAT2-500  TopLayer *CAPC1608X90                        21.0500      15.1000      180      "Cap Thin Film 0.1uf 50v 0603"                                                                    
+C1             GX035C104MAT2-500  TopLayer *CAPC1608X90                        35.7000      19.5000      270      "Cap Thin Film 0.1uf 50v 0603"                                                                    
